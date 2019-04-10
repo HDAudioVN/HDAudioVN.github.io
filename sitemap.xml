@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://HDAudioVN.github.io/index.html</loc>
-    <lastmod>2019-04-09</lastmod>
+    <lastmod>2019-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -28,18 +28,6 @@
     </image:image>
     <image:image>
       <image:loc>http://HDAudioVN.github.io/images/youtube-logo-white.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://HDAudioVN.github.io/images/a-120%20den-crop-u852.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://HDAudioVN.github.io/images/a-120.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://HDAudioVN.github.io/images/a-130%20do.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://HDAudioVN.github.io/images/a-130%20xanh.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
